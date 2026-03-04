@@ -10,4 +10,4 @@ I am a mathematician, tech enthusiast, and developer who approaches system admin
 - 💬 **Ask me about:** Abstract algebra and algebraic structures; managing an Arch Linux server or desktop environment; aspects of linguistics and human languages in general; and if you are up for it, the studies of mythology and symbology of Joseph Campbell.
 - 🌍 **Languages:** Native Portuguese, fluent English and Italian, intermediate Spanish, basic Libras. <span dir="rtl">ובקרוב גם עברית!</span>
 - 💻 **Oh, You Meant Programming Languages!** Python for love and jazz, the web triad (HTML+CSS+JS) for web design and dashboards, shell scripts for optimizing workflows, and Visual Basic for nostalgics!
-- ⚡ **Fun stuff:** Civilization III is the best of all civ games. StarCraft (I and II) will always have my heart. I love listening to prog metal, electronic, and classical music.
+- ⚡ **Fun stuff:** Civilization III is the best of all civ games. StarCraft (I and II) will always have my heart. I love listening to prog metal, electronic, and classical music. It will make me happy if you gift me a book about mythology or if you take me camping!
